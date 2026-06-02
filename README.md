@@ -38,16 +38,14 @@ I’m currently working on building **SmartNotes AI**, a ChatPDF workspace app u
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubh3155&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Shubham's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shubh3155&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Shubham's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh3155&theme=dark&hide_border=false" alt="Shubham's Git Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shubh3155&theme=dark&hide_border=false" alt="Shubham's Git Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh3155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shubh3155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Shubh3155&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=Shubh3155&icon=0&color=0" alt="Visitor Count" />
 </p>
