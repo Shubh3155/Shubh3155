@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Mario Pixel Art Coding Workspace" />
 </div>
+
 ### Software Engineer • AI/ML • Quantitative Research • Open Source
 
 I'm an **Instrumentation & Control Engineering student at Netaji Subhas University of Technology (NSUT)** with a strong interest in software engineering, artificial intelligence, machine learning, and quantitative finance.
@@ -118,15 +119,14 @@ A Flutter-based mobile application designed to make **NSUT IMS notices more acce
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubh3155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh3155&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shubh3155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shubh3155&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubh3155&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shubh3155&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
 
 ## 📈 Quantitative Finance
 
