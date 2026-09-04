@@ -118,14 +118,17 @@ A Flutter-based mobile application designed to make **NSUT IMS notices more acce
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Shubh3155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shubh3155&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shubh3155&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+</p> -->
+[![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s\Shubh31552&theme=react-dark&hide_border=true&area=true)](https://github.com/Shubh3155)
+
+---
 
 
 ## 📈 Quantitative Finance
