@@ -108,11 +108,11 @@ Experimented with multiple predictive models and model-blending techniques to im
 
 ---
 
-### 📱 Echo — NSUT IMS
+### 📱 NSUT One — Student Dashboard
 
-A Flutter-based mobile application designed to make **NSUT IMS notices more accessible and convenient for students**.
+An independent student workspace bringing **NSUT notices, attendance, timetables, courses, results, and admit cards** into one dashboard, with an option to connect an IMS account.
 
-**Stack:** `Flutter` • `Firebase`
+🔗 [Visit NSUT One](https://nsutone.vercel.app/)
 
 ---
 
