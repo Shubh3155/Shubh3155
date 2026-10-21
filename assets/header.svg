@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Shubham Khatri — Engineering ideas into reality</title>
+  <desc id="desc">Software engineering, artificial intelligence and quantitative research. A navy banner with violet and cyan orbital lines.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#17162d"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a78bfa" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1280" height="380" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="380" rx="24" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#accent)" transform="translate(1050 190)">
+    <circle r="118" opacity=".22"/><circle r="82" opacity=".15"/>
+    <ellipse rx="172" ry="57" transform="rotate(-35)" opacity=".65"/>
+    <ellipse rx="172" ry="57" transform="rotate(35)" opacity=".35"/>
+    <circle r="7" fill="#67e8f9" stroke="none"/>
+    <circle cx="114" cy="-91" r="5" fill="#a78bfa" stroke="none"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="68" y="81" fill="#67e8f9" font-family="monospace" font-size="15" letter-spacing="3">BUILD / RESEARCH / ITERATE</text>
+    <text x="64" y="164" fill="#f0f3ff" font-size="64" font-weight="700" letter-spacing="-2">Shubham Khatri</text>
+    <text x="68" y="211" fill="#c4b5fd" font-size="25">Engineering ideas into reality.</text>
+    <path d="M68 246H705" stroke="url(#accent)" stroke-opacity=".45"/>
+    <text x="68" y="285" fill="#b4bed3" font-size="17">Software Engineering   /   AI &amp; ML   /   Quantitative Research</text>
+    <text x="68" y="328" fill="#78849c" font-size="14" letter-spacing="2">NSUT  ·  IEEE NSUT  ·  OPEN SOURCE</text>
+  </g>
+</svg>
