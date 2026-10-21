@@ -94,8 +94,8 @@ I'm **Shubham**, an Instrumentation & Control Engineering student at **Netaji Su
 <p align="center"><sub>A living snapshot of the code, contributions, and consistency behind the projects.</sub></p>
 
 <p align="center">
-  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=Shubh3155&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=67e8f9&text_color=c9d1d9&rank_icon=github" alt="GitHub stats: stars, commits, pull requests, issues, contributions, reviews, discussions and merged pull requests" />
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh3155&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most used languages by repository code size" />
+  <img width="59%" src="./assets/stats.svg" alt="GitHub stats: stars, commits, pull requests, issues, contributions, reviews, discussions and merged pull requests" />
+  <img width="39%" src="./assets/languages.svg" alt="Most used languages by repository code size" />
 </p>
 
 <p align="center">
@@ -152,7 +152,15 @@ I'm **Shubham**, an Instrumentation & Control Engineering student at **Netaji Su
 </details>
 
 <!-- SNAKE:START -->
-<!-- The included workflow adds the contribution animation here after its first successful run. -->
+<details open>
+<summary><strong>A year of contributions, in motion</strong></summary>
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
+  <img width="100%" src="./assets/snake.svg" alt="Animated snake traversing my GitHub contribution calendar" />
+</picture>
+</details>
 <!-- SNAKE:END -->
 
 <p align="center"><sub>Cards reflect the data available to each provider and may refresh at different times. Language distribution describes repository code, not proficiency; commit timing is not time spent coding.</sub></p>
