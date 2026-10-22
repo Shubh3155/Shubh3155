@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubh3155&label=Profile+views&color=7c3aed&style=flat" alt="Profile image view counter" />
+  <img src="https://komarev.com/ghpvc/?username=Shubh3155&label=Profile%20views&color=7c3aed&style=flat" alt="Profile image view counter" />
   <a href="https://github.com/Shubh3155?tab=followers"><img src="https://img.shields.io/github/followers/Shubh3155?label=Followers&style=flat&color=a78bfa&labelColor=161b22" alt="GitHub followers" /></a>
   <a href="https://github.com/Shubh3155?tab=repositories"><img src="https://img.shields.io/github/stars/Shubh3155?label=Total%20stars&style=flat&color=67e8f9&labelColor=161b22" alt="GitHub stars" /></a>
 </p>
@@ -103,11 +103,11 @@ I'm **Shubham**, an Instrumentation & Control Engineering student at **Netaji Su
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubh3155&bg_color=0d1117&color=a78bfa&line=67e8f9&point=c4b5fd&area=true&hide_border=true" alt="Recent GitHub contribution activity graph" />
+  <img width="100%" src="./assets/activity.svg" alt="Recent GitHub contribution activity graph" />
 </p>
 
 <details>
-<summary><strong>Explore more · contribution history, language breakdowns & coding hours</strong></summary>
+<summary><strong>Explore more · contribution history, language breakdowns & commit timing</strong></summary>
 
 <br />
 <p align="center">
