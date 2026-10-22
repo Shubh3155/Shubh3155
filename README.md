@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubh3155&label=Profile%20views&color=7c3aed&style=flat" alt="Profile image view counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shubh3155.Shubh3155&left_text=Profile%20views&left_color=%23161b22&right_color=%237c3aed" alt="Profile image view counter" />
   <a href="https://github.com/Shubh3155?tab=followers"><img src="https://img.shields.io/github/followers/Shubh3155?label=Followers&style=flat&color=a78bfa&labelColor=161b22" alt="GitHub followers" /></a>
   <a href="https://github.com/Shubh3155?tab=repositories"><img src="https://img.shields.io/github/stars/Shubh3155?label=Total%20stars&style=flat&color=67e8f9&labelColor=161b22" alt="GitHub stars" /></a>
 </p>

@@ -26,6 +26,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.event.repository.default_branch }}
+      - name: Generate recent contribution graph
+        run: python3 scripts/activity_graph.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate overview
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -49,10 +53,6 @@ jobs:
           outputs: |
             assets/snake.svg?color_snake=#7c3aed
             assets/snake-dark.svg?palette=github-dark&color_snake=#a78bfa
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Generate recent contribution graph
-        run: python3 scripts/activity_graph.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Connect generated images to README
